@@ -1,1 +1,2 @@
 this is the main file
+adding a new line to the main file
